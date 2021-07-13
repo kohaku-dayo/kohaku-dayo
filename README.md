@@ -2,7 +2,7 @@
 「好き勝手にオンラインゲームをとりあえず作る」
 を目標にUnityでゲーム制作をしています。
 
-[HandyLib]<https://github.com/kohaku-dayo/HandyLib>
+[HandyLib](https://github.com/kohaku-dayo/HandyLib)
 
 <!--
 **kohaku-dayo/kohaku-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
