@@ -4,7 +4,7 @@
 プログラミングの知識は全て[HandyLib](https://github.com/kohaku-dayo/HandyLib "GitHub内のレポジトリに飛びます")にて公開しているので、良ければ見ていってください🎵
 
 スカウト、募集のご連絡ございましたらこちらからお願い致します。
-[Contact Kohaku](rad2deg.gamedev@gmail.com)
+[Contact Kohaku](https://forms.gle/xyuBB9nmLyvH8CQT6 "Google Formに飛びます")
 
 <!--
 **kohaku-dayo/kohaku-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
