@@ -6,6 +6,8 @@
 スカウト、募集のご連絡ございましたらこちらからお願い致します。
 [Contact Kohaku](https://forms.gle/xyuBB9nmLyvH8CQT6 "Google Formに飛びます")
 
+
+[![kohaku-dayo](https://github-readme-stats.vercel.app/api?username=kohaku-dayo&show_icons=true&count_private=true)](https://github.com/polonel)
 <!--
 **kohaku-dayo/kohaku-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
