@@ -7,10 +7,11 @@
 [Contact Kohaku](https://forms.gle/xyuBB9nmLyvH8CQT6 "Google Formに飛びます")
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=kohaku-dayo&show_icons=true&count_private=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohaku-dayo&theme=dracula" />
-</a>
+</p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
