@@ -6,7 +6,7 @@
 スカウト、募集のご連絡ございましたらこちらからお願い致します。
 [Contact Kohaku](https://forms.gle/xyuBB9nmLyvH8CQT6 "Google Formに飛びます")
 
-<br>
+<!--<br>-->
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=kohaku-dayo&show_icons=true&count_private=true&theme=dracula" />
